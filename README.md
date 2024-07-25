@@ -1,4 +1,4 @@
-# Indian_farmer_Crop_data_Analysis
+# Indian_Crop_data_Analysis
 This project focuses on analyzing crop yield data of Indian farmers using SQL. It involves creating and populating tables, running various SQL queries to gather insights, and potentially predicting future yields.
 # Project Structure
 - Database Schema: Defines tables for farmers, crops, and crop data.
